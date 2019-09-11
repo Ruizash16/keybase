@@ -1,0 +1,34 @@
+{
+  "body": {
+    "device": {
+      "id": "cfb0663b44a8bb878823e20d253fbc18",
+      "kid": "0120bc4d004fc94092df288e4f93836d4fed50ab475c29bfc22ebadd899ef343f4f30a",
+      "name": "RealmeC1",
+      "status": 1,
+      "type": "mobile"
+    },
+    "key": {
+      "host": "keybase.io",
+      "kid": "0120bc4d004fc94092df288e4f93836d4fed50ab475c29bfc22ebadd899ef343f4f30a",
+      "uid": "3170902a5a1c2f6a09f5b00335d60919",
+      "username": "reza1602"
+    },
+    "merkle_root": {
+      "ctime": 1568176787,
+      "hash": "9989310a22f52d4ec3e1c15c933b988afc1e1f7bdab7feb9b5bc93cff63ed4d33b33dfa96865b3321fddd030b3bbc547d1d66732672c88ba6d7994ecd844e56c",
+      "hash_meta": "6c7a604e72b6aafc84f2619d7c41c27ed705fc4ec805c9663e75ba8476d33940",
+      "seqno": 6591479
+    },
+    "type": "eldest",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568176772,
+  "expire_in": 504576000,
+  "prev": null,
+  "seqno": 1,
+  "tag": "signature"
+}
